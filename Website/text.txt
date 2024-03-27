@@ -1,0 +1,20 @@
+    <p>
+        We focus on modern-solutions such as innovative constructions 
+        and light constructions which are strong and energy efficient
+    </p>
+    <img src="images/carpenter.jpg" alt="Photo of us">
+    <li>
+        Group of professionals
+    </li>
+    <li>
+        Years of real-life practice
+    </li>
+    <li>
+        8+ years in the carpenter indrustry
+    </li>
+    <li>
+        Hundreds if not thousand pleased customers
+    </li>
+
+
+            <img src="images/table.jpg" alt="images of us" width="740px" height="470">
