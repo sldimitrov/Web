@@ -132,6 +132,13 @@ html, body {
     border-radius: 50%;
 }
 
+.company-image {
+    float: right;
+    height: 240px;
+    width: 280px;
+    border-radius: 50%;
+}
+
 .main-footer {
     background: linear-gradient(to bottom,rgb(242, 238, 2), rgb(50, 189, 50));
     color:white;
