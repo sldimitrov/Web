@@ -1,4 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Anta&family=Exo:ital,wght@0,100..900;1,100..900&family=Kalam:wght@300;400;700&family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700');
+@import url("https://fonts.googleapis.com/css?family=Metal+Mania");
+
+@font-face {
+    font-family: "Booter - Zero Zero";
+    src: url("Fonts/Booter - Zero Zero.woff") format("woff"),
+         url("Fonts/Booter - Zero Zero.woff2") format("woff2");
+}
+         
 * {
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
@@ -73,8 +82,9 @@ html, body {
 .company-name-large {
     text-align: center;
     margin: 0;
-    font-size: 4em;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 7em;
+    font-family: "Booter - Zero Zero";
+    font-weight: normal;
     color:rgb(180, 235, 52);
 }
 
@@ -107,7 +117,8 @@ html, body {
 }
 
 .section-header {
-    font-family: Prompt;
+    font-family: "Metal Mania";
+    font-weight: normal;
     color: #333;
     text-align: center;
     font-size: 2.5em;
@@ -122,7 +133,7 @@ html, body {
 }
 
 .main-footer {
-    background: linear-gradient(to right,rgb(242, 238, 2), rgb(50, 189, 50));
+    background: linear-gradient(to bottom,rgb(242, 238, 2), rgb(50, 189, 50));
     color:white;
     padding: .25em 0;
 }
@@ -299,4 +310,36 @@ html, body {
     text-align: center;
     font-size: 1.2em;
     margin-right: 25px;
+}
+
+.cart-row:last-child {
+    border-bottom: 1px solid black;
+}
+
+.cart-row:last-child .cart-column {
+    border: none;
+}
+
+.cart-total {
+    text-align: end;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.cart-total-title {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: black;
+    margin-right: 2opx;
+}
+
+.cart-total-price {
+    color: #333;
+    font-size: 1.1em;
+}
+
+.btn-purchase {
+    display: block;
+    margin: 40px auto 80px auto;
+    font-size: 1.75em;
 }
