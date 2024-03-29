@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+    <script src="store.js" async></script>
+
     <title>Carperter Website</title>
 </head>
 <body>
@@ -25,7 +27,7 @@
                 <span class="shop-item-title">Devil's Table</span>
                 <img class="shop-item-image" src="images/table.jpg">
                 <div class="shop-item-details">
-                    <span class="shop-item-price">333.99$</span>
+                    <span class="shop-item-price">333$</span>
                     <button class="btn btn-primary shop-item-button" type="button">ADD TO CART</button>
                 </div>        
             </div>
@@ -33,7 +35,7 @@
                 <span class="shop-item-title">Enourmous Shed</span>
                 <img class="shop-item-image" src="images/shed.jpg">
                 <div class="shop-item-details">
-                    <span class="shop-item-price">50.000$</span>
+                    <span class="shop-item-price">50000$</span>
                     <button class="btn btn-primary shop-item-button" type="button">ADD TO CART</button>
                 </div>        
             </div>
@@ -41,7 +43,7 @@
                 <span class="shop-item-title">Dreamed House</span>
                 <img class="shop-item-image" src="images/house.jpg">
                 <div class="shop-item-details">
-                    <span class="shop-item-price">300.000.000$</span>
+                    <span class="shop-item-price">300000$</span>
                     <button class="btn btn-primary shop-item-button" role="button">ADD TO CART</button>    
                 </div>
             </div>
@@ -49,14 +51,16 @@
                 <span class="shop-item-title">Lion's Castle</span>
                 <img class="shop-item-image" src="images/lions_house.jpg">
                 <div class="shop-item-details">
-                    <span class="shop-item-price">1.200.000$</span>
+                    <span class="shop-item-price">800000$</span>
                     <button class="btn btn-primary shop-item-button" role="button">ADD TO CART</button>
                 </div>        
             </div>
         </div>
     </section>
+
     <section class="container content-section">
         <h2 class="section-header">CART</h2>
+
         <div class="cart-row">
             <span class="cart-item cart-header
             cart-column">ITEM</span>
@@ -71,15 +75,15 @@
                 <span class="cart-item-title">Red Devil Table</span>
             </div>
             <span class="cart-price
-            cart-column">$333.99</span>
+            cart-column">$333</span>
             <div class="cart-item cart-column">
                 <input class="cart-quantity-input"
                 type="number" value="1">
-                <button class="btn btn-danger
-                cart-quantity-button"
+                <button class="btn btn-danger"
                 type="button">REMOVE</button>
             </div>
         </div>
+
         <div class="cart-row">
             <span class="cart-item cart-header
             cart-column">ITEM</span>
@@ -94,68 +98,80 @@
                 <span class="cart-item-title">Enourmous Shed</span>
             </div>
             <span class="cart-price
-            cart-column">$50.000</span>
+            cart-column">$50000</span>
             <div class="cart-item cart-column">
-                <input class="cart-item cart-column"
-                type="number" value="2">
-                <button class="btn btn-danger
-                cart-quantity-button"
+                <input class="cart-quantity-input"
+                type="number" value="1">
+                <button class="btn btn-danger"
                 type="button">REMOVE</button>
             </div>
         </div>
-        <section>
-            <div>
-                <strong>ITEM</strong>
-                &lt;&gt;
-                <strong>PRICE</strong>
-                &lt;&gt;
-                <strong>QUANTITY</strong>
+
+        <div class="cart-row">
+            <span class="cart-item cart-header
+            cart-column">ITEM</span>
+            <span class="cart-price cart-header
+            cart-column">PRICE</span>
+            <span class="cart-quantity cart-header
+            cart-column">QUANTITY</span>
+        </div>
+        <div class="cart-row">
+            <div class="cart-item cart-column">
+                <img class="cart-item-image" src="images/house.jpg" width="100px">
+                <span class="cart-item-title">Dreamed House</span>
             </div>
-            <div>
-                <img src="images/house.jpg" width="100px">
-                <span>Dreamed House</span>
-                &lt;&gt;
-                <span>$300.000</span>
-                <input type="number" value="2">
-                <button role="button">REMOVE</button>
+            <span class="cart-price
+            cart-column">$300000</span>
+            <div class="cart-item cart-column">
+                <input class="cart-quantity-input"
+                type="number" value="1">
+                <button class="btn btn-danger"
+                type="button">REMOVE</button>
             </div>
-        </section>
-        <section>
-            <div>
-                <strong>ITEM</strong>
-                &lt;&gt;
-                <strong>PRICE</strong>
-                &lt;&gt;
-                <strong>QUANTITY</strong>
+        </div>
+        <div class="cart-row">
+            <span class="cart-item cart-header
+            cart-column">ITEM</span>
+            <span class="cart-price cart-header
+            cart-column">PRICE</span>
+            <span class="cart-quantity cart-header
+            cart-column">QUANTITY</span>
+        </div>
+        <div class="cart-items">
+            <div class="cart-row">
+                <div class="cart-item cart-column">
+                    <img class="cart-item-image" src="images/lions_house.jpg" width="100px">
+                    <span class="cart-item-title">Lion's Castle</span>
+                </div>
+                <span class="cart-price
+                cart-column">$800000</span>
+
+                <div class="cart-item cart-column">
+                    <input class="cart-quantity-input"
+                    type="number" value="1">
+                    <button class="btn btn-danger"
+                    type="button">REMOVE</button>
+                </div>
             </div>
-            <div>
-                <img src="images/lions_house.jpg" width="100">
-                <span>Castle with guardians</span>
-                &lt;&gt;
-                <span>$1.200.000</span>
-                <input type="number" value="3">
-                <button role="button">REMOVE</button>
-            </div>
-            <hr>
-            <div>
-                <strong>Total</strong>
-                <span>$333.99</span>
-            </div>
-            <div>
-                <button role="button">PURCHASE</button>
-            </div>
-        </section>
+        </div>
+        <div class="cart-total">
+            <strong class="cart-total-title">Total</strong>
+            <span class="cart-total-price">$0</span>
+        </div>
+        <div>
+            <button class="btn btn-primary btn-purchase" type="button">PURCHASE</button>
+        </div>
     </section>
-        <footer class="main-footer">
-            <div class="container main-footer-container">
-                <h3 class="company-name">Carpenter Services OOD</h3>
-                <h3 class="number">0876533802</h3>
-                <ul class="nav footer-nav">
-                    <li>
-                        <a href="https://www.facebook.com/Darvodelstvo" target="_blank"><img src="images/social_media/Facebook_logo_(square).png" alt="Facebook", width="50"></a></li>
-                        <li><img src="images/social_media/instagram.png" alt="Instagram", width="50"></li>
-            </ul>
-            </div>
-        </footer>
+    <footer class="main-footer">
+        <div class="container main-footer-container">
+            <h3 class="company-name">Carpenter Services OOD</h3>
+            <h3 class="number">0876533802</h3>
+            <ul class="nav footer-nav">
+                <li>
+                <a href="https://www.facebook.com/Darvodelstvo" target="_blank"><img src="images/social_media/Facebook_logo_(square).png" alt="Facebook", width="50"></a></li>
+                <li><img src="images/social_media/instagram.png" alt="Instagram", width="50"></li>
+        </ul>
+        </div>
+    </footer>
 </body>
 </html>
