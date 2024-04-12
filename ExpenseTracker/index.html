@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Expense Tracker App</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js"></script>
+</head>
+<body>
+    <h1>Expense Tracker</h1>
+    <section id="add-items-tab-container">
+        <heading>
+            <h2>Add A New Item</h2>
+        </heading>
+        <label for="name">Name:</label>
+        <input type="text" id="nameInput">
+        <label for="date">Date:</label>
+        <input type="text" id="dateInput">
+        <label for="amount">Amount:</label>
+        <input type="text" id="amountInput">
+        <button type="button"
+        onclick="addExpense()" id="add-expense-button">Add Expense</button>
+    </section>
+    <div id="expenses-container">
+        <section id="heading-container">
+            <p>Name</p>
+            <p>Date</p>
+            <p>Amount</p>
+        </section>
+        <section id="items-container">
+            <div class="item">
+                <p>Red Flower</p>
+                <p>19/19/2019</p>
+                <p>10.000$</p>
+            </div>
+            <div class="item">
+                <p class="value" id="name">Blue Flower</p>
+                <p class="value" id="date">05/02/2020</p>
+                <p class="value" id="amount">10.00$</p>
+            </div>
+        </section>
+    </div>
+</body>
+</html>

@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+* {
+   box-sizing: border-box;
+   padding: 0;
+   margin: 0; 
+}
+
+body {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 16px;
+    background-image: linear-gradient(to right,rgb(12, 20, 255), rgb(107, 2, 121));
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    height: 330px;
+    max-width: 100%;;
+}
+
+h1,
+h2 {
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.navbar {
+    background-image: linear-gradient(to right, rgb(100, 17, 216), rgb(186, 6, 6));
+    height: 60px;
+}
+
+.navbar .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.navbar .nav {
+    display: flex;
+    width: 250px;
+    justify-content: space-around;
+}
+
+
+.navbar .logo {
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.nav a {
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+}
+
+.nav a:hover {
+    color: rgb(251, 143, 41);
+}
+
+header {
+    min-width: 400px;
+    background-image: linear-gradient(to left, rgba(71, 4, 239, 0.641), #b50ba4);
+}
+
+.header .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1.2;
+}
+
+.boxes .container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.container .box {
+    background-color: rgb(203, 193, 193);
+    border-radius: 10px;
+    margin: 0 10px;
+    padding: 10px 15px;
+    color: black;
+}
+
+.container .box i {
+    padding-right: 5px;
+}
+
+@media (max-width: 806px) {
+    .header .container {
+        flex-direction: column;
+        align-items: center;
+        padding-top: 20px;
+        text-align:center;
+
+    }
+
+    .boxes .container {
+        flex-direction: column;
+        text-align:center;
+    }
+
+    .container .box {
+        margin-top: 10px;
+    }
+}
