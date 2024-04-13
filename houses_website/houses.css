@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-attachment: fixed;
+    color: white;
+    background-color: rgb(34, 219, 213);
+}
+
+.container {
+    max-width: 1100px;
+}
+
+h1,
+h2 {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(52, 183, 195);
+}
+
+.navbar .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    width: 100%;
+}
+
+.navbar h1 {
+    padding-left: 10px;
+}
+
+.links {
+    display: flex;
+    justify-content: space-around;
+    width: 200px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.links a {
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+}
+
+.links a:hover {
+    color: rgb(32, 32, 254);
+}
