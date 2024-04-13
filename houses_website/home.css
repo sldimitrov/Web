@@ -137,6 +137,8 @@ ul {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .photos img {
@@ -167,10 +169,26 @@ ul {
     width: 100%;
 }
 
+.footer h2,
+h4 {
+    padding-left: 15px;
+    text-decoration: solid;
+    font-weight: bold;
+}
+
 .contacts {
     display: flex;
     width: 350px;
-    justify-content: space-between;
+    justify-content: space-around;
+    padding-right: 15px;
+}
+
+.contacts a {
+    color: white;
+}
+
+.contacts a:hover {
+    color: rgb(19, 74, 215);
 }
 
 @media (max-width: 860px) {
