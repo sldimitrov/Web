@@ -8,9 +8,9 @@ This Weather Application combine wide range of skills including working with HTM
 https://github.com/sldimitrov/Web/assets/135168991/41c57568-3de4-469f-b46b-392aaf3ad847
 
 # Knowledge stack #
- ### As I had already mentioned in the description I have used HTML, CSS and JS for the development of the website application.
-
-The use of RESTapi that request data from remove served allowed response to the user desires with an actual information.
+ ### As I had already mentioned in the description I have used HTML, CSS and JS for the development of the website application. ⚙️
+--
+The use of RESTapi that request data from remove served allowed response to the user desires with an actual information. 🛈
 --
 ![Screenshot 2024-04-14 210046](https://github.com/sldimitrov/Web/assets/135168991/15fbc680-94fb-48f7-99bf-976210a32d62)
 
