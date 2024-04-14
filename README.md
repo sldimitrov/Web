@@ -16,7 +16,9 @@ The use of RESTapi that request data from remove served allowed response to the 
 
 
 # Screenshots #
+## Tablet design overview
 <img src="https://github.com/sldimitrov/Web/assets/135168991/8f616d41-3f13-4cee-96e3-87a258682fb2" width="380" height="525"/>
+## Phone design look
 <img src="https://github.com/sldimitrov/Web/assets/135168991/d6b6d2e9-a095-4411-b551-91db94212ba5" width="190" height="380" />
 
 # Postscript #
