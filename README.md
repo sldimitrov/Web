@@ -1,7 +1,7 @@
 # Weather App Documentation 🌤️
 
 # Description #
-This Weather Application combine wide range of skills including working with HTML, CSS and Javascript with RESTapi. The design is responsible and it's suitable for many divices. The functionality of the website imitates the behaviour of all modern weather apps. This means you can check the forecast and other details in real-time for every city, town or country in the world. The data we request from a remote service with the use of RESTapi which is the most used type of API. 
+This Weather Application combine wide range of skills including working with HTML, CSS and Javascript with RESTapi. The design is responsible and it's suitable for many divices. The functionality of the website imitates the behaviour of all modern weather apps. This means you can check the forecast and other details in real-time for every city, town or country in the world. 
 
 # Live demo #
 
@@ -10,7 +10,7 @@ https://github.com/sldimitrov/Web/assets/135168991/41c57568-3de4-469f-b46b-392aa
 # Knowledge stack #
  ### As I had already mentioned in the description I have used HTML, CSS and JS for the development of the website application.
 
-The use of RESTapi allowed response to the user input with an actual data.
+The use of RESTapi that request data from remove served allowed response to the user desires with an actual information.
 --
 ![Screenshot 2024-04-14 210046](https://github.com/sldimitrov/Web/assets/135168991/15fbc680-94fb-48f7-99bf-976210a32d62)
 
