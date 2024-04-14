@@ -8,8 +8,7 @@ This Weather Application combine wide range of skills including working with HTM
 https://github.com/sldimitrov/Web/assets/135168991/41c57568-3de4-469f-b46b-392aaf3ad847
 
 # Knowledge stack #
-Python was involved, of course.
-Exercising with functions was the main scope of this exercise. There are also some text-processing operations in it, if-else-statements, Loops and that's almost all.
+ As I had already mentioned in the description I have used HTML, CSS and JS for the development of the website application.
 
 # Screenshots #
 ![127 0 0 1_5501_index html](https://github.com/sldimitrov/Web/assets/135168991/8f616d41-3f13-4cee-96e3-87a258682fb2)
