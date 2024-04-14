@@ -10,6 +10,10 @@ https://github.com/sldimitrov/Web/assets/135168991/41c57568-3de4-469f-b46b-392aa
 # Knowledge stack #
  As I had already mentioned in the description I have used HTML, CSS and JS for the development of the website application.
 
+The use of RESTapi allowed response to the user input with an actual data.
+![Screenshot 2024-04-14 210046](https://github.com/sldimitrov/Web/assets/135168991/15fbc680-94fb-48f7-99bf-976210a32d62)
+
+
 # Screenshots #
 ![127 0 0 1_5501_index html](https://github.com/sldimitrov/Web/assets/135168991/8f616d41-3f13-4cee-96e3-87a258682fb2)
 ![127 0 0 1_5501_index html (1)](https://github.com/sldimitrov/Web/assets/135168991/86c354aa-b37d-4afd-b800-384baab47bf6)
