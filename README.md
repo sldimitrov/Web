@@ -3,7 +3,7 @@
 # Description #
 This Weather Application combine wide range of skills including working with HTML, CSS and Javascript with RESTapi. The design is responsible and it's suitable for many divices. The functionality of the website imitates the behaviour of all modern weather apps. This means you can check the forecast and other details in real-time for every city, town or country in the world. 
 
-# Live demo #
+# Live demo of the functionality #
 
 https://github.com/sldimitrov/Web/assets/135168991/41c57568-3de4-469f-b46b-392aaf3ad847
 
@@ -16,7 +16,7 @@ The use of RESTapi that request data from remove served allowed response to the 
 
 
 # Screenshots #
-### Overview of the phone and tablet design
+### Overview of the phone and tablet design 🎨
 <img src="https://github.com/sldimitrov/Web/assets/135168991/8f616d41-3f13-4cee-96e3-87a258682fb2" width="380" height="525"/>
 <img src="https://github.com/sldimitrov/Web/assets/135168991/d6b6d2e9-a095-4411-b551-91db94212ba5" width="190" height="380" />
 
