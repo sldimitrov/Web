@@ -1,4 +1,4 @@
-![127 0 0 1_5501_index html (1)](https://github.com/sldimitrov/Web/assets/135168991/3bd77d3f-e504-4456-a1fd-5b782f06ed62)# Weather App Documentation 🌤️
+# Weather App Documentation 🌤️
 
 # Description #
 This Weather Application combine wide range of skills including working with HTML, CSS and Javascript with RESTapi. The design is responsible and it's suitable for many divices. The functionality of the website imitates the behaviour of all modern weather apps. This means you can check the forecast and other details in real-time for every city, town or country in the world. The data we request from a remote service with the use of RESTapi which is the most used type of API. 
