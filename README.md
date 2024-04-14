@@ -20,14 +20,7 @@ The use of RESTapi allowed response to the user input with an actual data.
 ![127 0 0 1_5501_index html (1)](https://github.com/sldimitrov/Web/assets/135168991/86c354aa-b37d-4afd-b800-384baab47bf6)
 
 
-# Adjustments #
-Fork the repository and free to show imagination - change the script.
-* express yourself
-* add new functionality
-* add try-except statements
-* add more user-friendly messages
-* add whatever you want and said feedback ;)
-* JUST do NOT forget to *fork* and *star* the repo!
+# Postscript #
 ```python 
 print('Thank you for the attention!' * n_times)
 ```
