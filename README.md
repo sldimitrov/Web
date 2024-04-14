@@ -18,7 +18,7 @@ The use of RESTapi allowed response to the user input with an actual data.
 # Screenshots #
 <img src="https://github.com/sldimitrov/Web/assets/135168991/8f616d41-3f13-4cee-96e3-87a258682fb2" width="200" height="400" />
 
-![127 0 0 1_5501_index html](https://github.com/sldimitrov/Web/assets/135168991/8f616d41-3f13-4cee-96e3-87a258682fb2 =250x250)
+![127 0 0 1_5501_index html](https://github.com/sldimitrov/Web/assets/135168991/8f616d41-3f13-4cee-96e3-87a258682fb2 =450x300)
 ![127 0 0 1_5501_index html (1)](https://github.com/sldimitrov/Web/assets/135168991/86c354aa-b37d-4afd-b800-384baab47bf6)
 
 
