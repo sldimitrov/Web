@@ -5,7 +5,7 @@ This Weather Application combine wide range of skills including working with HTM
 
 # Live demo #
 
-https://github.com/sldimitrov/Projects/assets/135168991/21810247-eb6b-4746-ac1c-873f338ad899
+https://github.com/sldimitrov/Web/assets/135168991/41c57568-3de4-469f-b46b-392aaf3ad847
 
 # Knowledge stack #
 Python was involved, of course.
