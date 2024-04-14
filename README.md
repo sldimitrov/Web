@@ -13,10 +13,7 @@ Exercising with functions was the main scope of this exercise. There are also so
 
 # Screenshots #
 ![127 0 0 1_5501_index html](https://github.com/sldimitrov/Web/assets/135168991/8f616d41-3f13-4cee-96e3-87a258682fb2)
-![127 0 0 1_5501_index html](https://github.com/sldimitrov/Web/assets/135168991/1b0e6982-f0c5-4248-98a2-dc10d0cb09a7)
-
-
-![Screenshot 2023-12-22 003750](https://github.com/sldimitrov/Projects/assets/135168991/6045bbeb-4a0b-472d-a247-b0f3cfffb2a5)
+![127 0 0 1_5501_index html (1)](https://github.com/sldimitrov/Web/assets/135168991/cae60f30-9655-4d78-b1c2-88e592a0e8a5)
 
 
 # Adjustments #
