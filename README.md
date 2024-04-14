@@ -1,7 +1,7 @@
 # Weather App Documentation 🌤️
 
 # Description #
-This Weather Application combine wide range of skills including working with HTML, CSS and Javascript with RESTapi. The design is responsible and suitable for many divices. The functionality of the website imitates the behaviour of all modern weather apps. This means you can check the forecast and other details in real-time for every city, town or country in the world. The data is taken from a remote service with the use of RESTapi which is the most used type of API. 
+This Weather Application combine wide range of skills including working with HTML, CSS and Javascript with RESTapi. The design is responsible and it's suitable for many divices. The functionality of the website imitates the behaviour of all modern weather apps. This means you can check the forecast and other details in real-time for every city, town or country in the world. The data we request from a remote service with the use of RESTapi which is the most used type of API. 
 
 # Live demo #
 
