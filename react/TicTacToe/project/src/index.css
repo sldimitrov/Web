@@ -94,6 +94,7 @@ h1 {
   transition: color 0.2s;
   padding: 0.5rem 0.25rem 0.25rem 0.25rem;
   text-align: center;
+  padding-bottom: 7px;
 }
 
 #players button:hover {
